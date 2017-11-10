@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ccpocketentityscanner",
+  "name": "CCPocketEntityScanner",
+  "description": "Adds an entity Scanner peripheral for ComputerCraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Iunius118"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
