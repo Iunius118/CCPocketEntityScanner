@@ -11,6 +11,8 @@ import net.minecraft.entity.player.EntityPlayer;
 
 public interface ILuaObjectProvider
 {
+
     @Nullable
     ILuaObject getLuaObject(@Nullable EntityPlayer player);
+
 }
